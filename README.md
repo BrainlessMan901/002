@@ -1,5 +1,7 @@
 # 자바 스윙으로 만든 컬링게임
 
+![image](https://github.com/BrainlessMan901/002/assets/159418229/934105b2-7aad-49fa-93fa-d9bf839404c9)
+
 ## 도움말
 
 마우스 드래그/클릭 하여 양팀의 스톤을 번갈아 가며 밀 수 있음
